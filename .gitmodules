@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "grattan"]
+	path = grattan
+	url = https://github.com/hughparsonage/grattan
+	shallow = true
+	registered = true
+[submodule "hutils"]
+	path = hutils
+	url = https://github.com/hughparsonage/hutils
+	shallow = true
+	registered = true
+[submodule "hutilscpp"]
+	path = hutilscpp
+	url = https://github.com/hughparsonage/hutilscpp
+	shallow = true
+	registered = true
+[submodule "TeXCheckR"]
+	path = TeXCheckR
+	url = https://github.com/hughparsonage/texcheckr
+	shallow = true
+	registered = true

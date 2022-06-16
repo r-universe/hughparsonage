@@ -1,0 +1,18 @@
+[
+  {
+    "package": "grattan",
+    "oncran": true
+  },
+  {
+    "package": "hutils",
+    "oncran": true
+  },
+  {
+    "package": "hutilscpp",
+    "oncran": true
+  },
+  {
+    "package": "TeXCheckR",
+    "oncran": true
+  }
+]
