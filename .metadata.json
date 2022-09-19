@@ -1,9 +1,5 @@
 [
   {
-    "package": "grattan",
-    "oncran": true
-  },
-  {
     "package": "hutils",
     "oncran": true
   },
