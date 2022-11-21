@@ -23,3 +23,8 @@
 	url = https://github.com/hughparsonage/texcheckr
 	shallow = true
 	registered = true
+[submodule "waterfalls"]
+	path = waterfalls
+	url = https://github.com/hughparsonage/waterfalls
+	shallow = true
+	registered = true

@@ -14,5 +14,9 @@
   {
     "package": "TeXCheckR",
     "oncran": true
+  },
+  {
+    "package": "waterfalls",
+    "oncran": true
   }
 ]
