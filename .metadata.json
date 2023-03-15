@@ -1,10 +1,6 @@
 [
   {
-    "package": "waterfalls",
-    "oncran": true
-  },
-  {
-    "package": "hutilscpp",
+    "package": "grattan",
     "oncran": true
   },
   {
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "grattan",
+    "package": "hutilscpp",
     "oncran": true
   },
   {
     "package": "TeXCheckR",
+    "oncran": true
+  },
+  {
+    "package": "waterfalls",
     "oncran": true
   }
 ]
