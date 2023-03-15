@@ -3,9 +3,29 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Census2016"]
+	path = Census2016
+	url = https://github.com/hughparsonage/census2016
+	shallow = true
+	registered = true
+[submodule "dauphin"]
+	path = dauphin
+	url = https://github.com/hughparsonage/dauphin
+	shallow = true
+	registered = true
+[submodule "fy"]
+	path = fy
+	url = https://github.com/hughparsonage/fy
+	shallow = true
+	registered = true
 [submodule "grattan"]
 	path = grattan
 	url = https://github.com/hughparsonage/grattan
+	shallow = true
+	registered = true
+[submodule "heims"]
+	path = heims
+	url = https://github.com/hughparsonage/heims
 	shallow = true
 	registered = true
 [submodule "hutils"]

@@ -1,6 +1,22 @@
 [
   {
+    "package": "Census2016",
+    "oncran": true
+  },
+  {
+    "package": "dauphin",
+    "oncran": true
+  },
+  {
+    "package": "fy",
+    "oncran": true
+  },
+  {
     "package": "grattan",
+    "oncran": true
+  },
+  {
+    "package": "heims",
     "oncran": true
   },
   {
