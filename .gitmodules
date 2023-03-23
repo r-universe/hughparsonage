@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ASGS.foyer"]
+	path = ASGS.foyer
+	url = https://github.com/cran/ASGS.foyer
+	shallow = true
+	registered = true
 [submodule "Census2016"]
 	path = Census2016
 	url = https://github.com/hughparsonage/census2016
