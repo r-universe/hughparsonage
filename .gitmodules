@@ -28,6 +28,11 @@
 	url = https://github.com/hughparsonage/grattan
 	shallow = true
 	registered = true
+[submodule "grattanInflators"]
+	path = grattanInflators
+	url = https://github.com/hughparsonage/grattaninflators
+	shallow = true
+	registered = true
 [submodule "heims"]
 	path = heims
 	url = https://github.com/hughparsonage/heims
