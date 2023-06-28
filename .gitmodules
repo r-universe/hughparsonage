@@ -1,60 +1,37 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ASGS.foyer"]
 	path = ASGS.foyer
 	url = https://github.com/cran/ASGS.foyer
-	shallow = true
-	registered = true
 [submodule "Census2016"]
 	path = Census2016
 	url = https://github.com/hughparsonage/census2016
-	shallow = true
-	registered = true
 [submodule "dauphin"]
 	path = dauphin
 	url = https://github.com/hughparsonage/dauphin
-	shallow = true
-	registered = true
 [submodule "fy"]
 	path = fy
 	url = https://github.com/hughparsonage/fy
-	shallow = true
-	registered = true
 [submodule "grattan"]
 	path = grattan
 	url = https://github.com/hughparsonage/grattan
-	shallow = true
-	registered = true
 [submodule "grattanInflators"]
 	path = grattanInflators
 	url = https://github.com/hughparsonage/grattaninflators
-	shallow = true
-	registered = true
 [submodule "heims"]
 	path = heims
 	url = https://github.com/hughparsonage/heims
-	shallow = true
-	registered = true
 [submodule "hutils"]
 	path = hutils
 	url = https://github.com/hughparsonage/hutils
-	shallow = true
-	registered = true
 [submodule "hutilscpp"]
 	path = hutilscpp
 	url = https://github.com/hughparsonage/hutilscpp
-	shallow = true
-	registered = true
 [submodule "TeXCheckR"]
 	path = TeXCheckR
 	url = https://github.com/hughparsonage/texcheckr
-	shallow = true
-	registered = true
 [submodule "waterfalls"]
 	path = waterfalls
 	url = https://github.com/hughparsonage/waterfalls
-	shallow = true
-	registered = true
