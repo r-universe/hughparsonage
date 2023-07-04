@@ -14,9 +14,6 @@
 [submodule "fy"]
 	path = fy
 	url = https://github.com/hughparsonage/fy
-[submodule "grattan"]
-	path = grattan
-	url = https://github.com/hughparsonage/grattan
 [submodule "grattanInflators"]
 	path = grattanInflators
 	url = https://github.com/hughparsonage/grattaninflators
