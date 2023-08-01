@@ -8,6 +8,9 @@
 [submodule "Census2016"]
 	path = Census2016
 	url = https://github.com/hughparsonage/census2016
+[submodule "TeXCheckR"]
+	path = TeXCheckR
+	url = https://github.com/hughparsonage/texcheckr
 [submodule "dauphin"]
 	path = dauphin
 	url = https://github.com/hughparsonage/dauphin
@@ -26,9 +29,6 @@
 [submodule "hutilscpp"]
 	path = hutilscpp
 	url = https://github.com/hughparsonage/hutilscpp
-[submodule "TeXCheckR"]
-	path = TeXCheckR
-	url = https://github.com/hughparsonage/texcheckr
 [submodule "waterfalls"]
 	path = waterfalls
 	url = https://github.com/hughparsonage/waterfalls
