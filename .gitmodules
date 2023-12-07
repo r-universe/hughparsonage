@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "ASGS.foyer"]
 	path = ASGS.foyer
-	url = https://github.com/cran/ASGS.foyer
+	url = https://github.com/hughparsonage/asgs.foyer
 [submodule "Census2016"]
 	path = Census2016
 	url = https://github.com/hughparsonage/census2016
