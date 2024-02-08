@@ -26,6 +26,9 @@
 [submodule "grattanInflators"]
 	path = grattanInflators
 	url = https://github.com/hughparsonage/grattaninflators
+[submodule "healthyAddress"]
+	path = healthyAddress
+	url = https://github.com/hughparsonage/healthyaddress
 [submodule "heims"]
 	path = heims
 	url = https://github.com/hughparsonage/heims
